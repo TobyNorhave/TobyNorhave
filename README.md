@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobynorhave&count_private=true&show_icons=true&theme=gotham"/>
-  <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/tobykn/">
@@ -27,6 +26,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+### :fire: My Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobynorhave&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TobyNorhave&theme=dark&background=000000)](https://git.io/streak-stats)
+    
 <!--
 **TobyNorhave/TobyNorhave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
